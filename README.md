@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Victor ! 👋
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=VRiPro&color=green)  
 
@@ -9,7 +9,7 @@
 I'm a passionate Data Scientist with a love for building impactful projects. With a strong background in industrial engineering, I aim to solve complex problems through code.
 
 - 🌱 Currently learning: ML, Meta-heuristics...
-- 💼 Working on: [...Looking for project...]
+- 💼 Working on: [...Looking for projects...]
 - 💬 Ask me about: Industrial process optimizations.
 
 ---
@@ -30,12 +30,13 @@ I'm a passionate Data Scientist with a love for building impactful projects. Wit
 
 ---
 
-### 📝 Latest Blog Posts
+### 📝 Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post title](https://yourblog.com/link-to-post)
-- [Another blog post title](https://yourblog.com/link-to-post)
-<!-- BLOG-POST-LIST:END -->
+<!-- Project-POST-LIST:START -->
+- [VEOLIA Projet fil rouge]([https://yourblog.com/link-to-post](https://github.com/VRiPro/VEOLIA_Projet_fil_rouge)) Water leaks detection using self-supervised model.[TELECOM-PARIS] 
+- [Memory-Based-Cuckoo-Search-Algorithm]([https://yourblog.com/link-to-post](https://github.com/VRiPro/Memory-Based-Cuckoo-Search-Algorithm)) Multi models production line optimization with meta-heuristic.[UTT]
+- [ToDoList]([https://yourblog.com/link-to-post](https://github.com/VRiPro/ToDoList_ipp)) To do list tool project, to train code and github rigour.[TELECOM-PARIS]
+<!-- Project-POST-LIST:END -->
 
 ---
 
