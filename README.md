@@ -35,7 +35,7 @@ I'm a passionate Data Scientist/Operations Researcher with a love for building i
 
 <!-- Project-POST-LIST:START -->
 - [VEOLIA Projet fil rouge](https://github.com/VRiPro/VEOLIA_Projet_fil_rouge): Water leaks detection using self-supervised model. [TELECOM-PARIS]
-- [Memory-Based-Cuckoo-Search-Algorithm](https://github.com/VRiPro/Memory-Based-Cuckoo-Search-Algorithm): Multi models production line optimization with meta-heuristic.[UTT]
+- [Memory-Based-Cuckoo-Search-Algorithm](https://github.com/VRiPro/Memory-Based-Cuckoo-Search-Algorithm): Minimizing the energy consumption in Robotic mixed-model assembly line.[UTT]
 - [ToDoList](https://github.com/VRiPro/ToDoList_ipp): To do list tool project, to train code and github rigour.[TELECOM-PARIS]
 <!-- Project-POST-LIST:END -->
 
