@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Data Scientist with a love for building impactful projects. With a strong background in industrial engineering, I aim to solve complex problems through code.
+I'm a passionate Data Scientist/Operations Researcher with a love for building impactful projects. With a strong background in industrial engineering, I aim to solve complex problems through code.
 
 - 🌱 Currently learning: ML, Meta-heuristics...
 - 💼 Working on: [...Looking for projects...]
@@ -19,6 +19,7 @@ I'm a passionate Data Scientist with a love for building impactful projects. Wit
 - **Languages:** Python, C, R, VBA.
 - **Frameworks/Libraries:** TensorFlow, Keras, PyTorch...
 - **Tools:** Docker, Git, VS Code, PySpark...
+- **Solvers:** Cplex, Lingo, Gusek.
 - **Databases:** MySQL, MongoDB, PostgreSQL, Neo4J.
 - **Cloud:** [Working on it]
 
