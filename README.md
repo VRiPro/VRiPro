@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Data Scientist/Operations Researcher with a love for building impactful projects. With a strong background in industrial engineering, I aim to solve complex problems through code.
+I'm a passionate Data Scientist/Operations Research Scientist with a love for building impactful projects. With a strong background in industrial engineering, I aim to solve complex problems through code.
 
 - 🌱 Currently learning: ML, Meta-heuristics...
 - 💼 Working on: [...Looking for projects...]
@@ -32,15 +32,16 @@ I'm a passionate Data Scientist/Operations Researcher with a love for building i
 ---
 
 ### 📝 Projects
-
-<!-- Project-POST-LIST:START -->
-- [VEOLIA Projet fil rouge](https://github.com/VRiPro/VEOLIA_Projet_fil_rouge): Water leaks detection using self-supervised model. [Veolia x TELECOM-PARIS]
-- [Memory-Based-Cuckoo-Search-Algorithm](https://github.com/VRiPro/Memory-Based-Cuckoo-Search-Algorithm): Minimizing the energy consumption in Robotic mixed-model assembly line.[UTT]
-- [ToDoList](https://github.com/VRiPro/ToDoList_ipp): To do list tool project, to train code and github rigour.[TELECOM-PARIS]
-- [Baby Names Vizualisation](https://github.com/matsvr/Vizualisation_project): Vizualisation work on evolution on french baby names.[TELECOM-PARIS]
-- [Multi-Channel Retailing Optimization](https://github.com/VRiPro/Multi-Channel-Retailing-Optimization): Profitability of online order fulfillment Optimization with a Non-linear Programming.[UTT]
-<!-- Project-POST-LIST:END -->
-
+- Data Science
+  - [VEOLIA Projet fil rouge](https://github.com/VRiPro/VEOLIA_Projet_fil_rouge): Water leaks detection using self-supervised model. [Veolia x TELECOM-PARIS]
+  - [ToDoList](https://github.com/VRiPro/ToDoList_ipp): To do list tool project, to train code and github rigour.[TELECOM-PARIS]
+  - [Baby Names Vizualisation](https://github.com/matsvr/Vizualisation_project): Vizualisation work on evolution on french baby names.[TELECOM-PARIS]
+  - MORE COMING SOON
+  
+- Optimization/RO
+  - [Memory-Based-Cuckoo-Search-Algorithm](https://github.com/VRiPro/Memory-Based-Cuckoo-Search-Algorithm): Minimizing the energy consumption in Robotic mixed-model assembly line.[UTT]
+  - [Multi-Channel Retailing Optimization](https://github.com/VRiPro/Multi-Channel-Retailing-Optimization): Profitability of online order fulfillment Optimization with a Non-linear Programming.[UTT]
+  - MORE COMING SOON
 ---
 
 ### 📫 Contact Me
